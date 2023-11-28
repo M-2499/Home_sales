@@ -1,8 +1,9 @@
 # Home_sales
 
-Home Sales Data Analysis with PySpark SQL
+**Home Sales Data Analysis with PySpark SQL**
 
 **Overview**
+
 In this project, I'll be utilizing PySpark SQL to analyze key metrics related to home sales data. The tasks involve creating temporary views, partitioning data, caching and uncaching temporary tables, and assessing query runtimes.
 
 Before I Begin
@@ -12,7 +13,7 @@ I pushed my changes to GitHub.
 Files
 I have downloaded the necessary files to get started: Module 22 Challenge files (Link to be provided).
 
-Instructions
+**Instructions**
 **Setup:**
 
 I have renamed the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
