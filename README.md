@@ -1,6 +1,6 @@
 **Home-Sales-Big-Data-with-PySpark-SQL**
 
-## This project involved working with Big Data and SparkSQL in order to analyze and query home sales data. The data analysis conducted considering below processes:
+## This project involved working with Big Data and SparkSQL in order to analyze and query home sales data. The data analysis processes where conducted as follow:
 
 Importing packages: The project started by importing the necessary packages, including findspark to initialize Spark and pyspark.sql for working with SparkSQL.
 
@@ -22,7 +22,7 @@ Reading Parquet data: The Parquet data was read into a DataFrame to perform furt
 
 
 
-## Through utilizing PySpark and Spark SQL on Google Colab, the project serves to determine key metrics about home sales data. Then, Spark is utilized to create temporary views, partition the data, cache and uncache a temporary table. Some of the data key metric questions that were answered:
+## Through utilizing PySpark and Spark SQL on Google Colab, the project serves to determine key metrics about home sales data. Some of the data key metric questions that were answered:
 
 What is the average price for a four-bedroom house sold for each year?
 
