@@ -1,6 +1,6 @@
 **Home-Sales-Big-Data-with-PySpark-SQL**
 
-##This project involved working with Big Data and SparkSQL in order to analyze and query home sales data. The data analysis conducted considering below processes:
+## This project involved working with Big Data and SparkSQL in order to analyze and query home sales data. The data analysis conducted considering below processes:
 
 Importing packages: The project started by importing the necessary packages, including findspark to initialize Spark and pyspark.sql for working with SparkSQL.
 
