@@ -10,6 +10,6 @@ What is the average price of a home for each year that has three bedrooms, three
 
 What is the "view" rating for homes costing more than or equal to $350,000?
 
-The project involved analyzing, cleansing, plotting, featurizing and modeling about a year's worth (20K) home sales in the Seattle metro-area from 2014-20125. I used the tools and libraries from Python, Numpy, Pandas, Seaborn, StatsModel, Sklearn and Scipy. We had a requirement to develop a multiple linear regression model as an initial approach to forecasting home prices. Here you can find my final business presentation and my Jupyter notebook.
+The project involved analyzing, cleansing, plotting, featurizing and modeling about a year's worth (20K) home sales in the Seattle metro-area from 2014-2015. I used the tools and libraries from Python, Numpy, Pandas, Seaborn, StatsModel, Sklearn and Scipy. We had a requirement to develop a multiple linear regression model as an initial approach to forecasting home prices. Here you can find my final business presentation and my Jupyter notebook.
 
 Feel free to reach out if you have any questions or need further clarification. Happy coding!
