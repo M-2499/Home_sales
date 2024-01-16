@@ -24,19 +24,19 @@ Reading Parquet data: The Parquet data was read into a DataFrame to perform furt
 
 ## Through utilizing PySpark and Spark SQL on Google Colab, the project serves to determine key metrics about home sales data. Some of the data key metric questions that were answered:
 
-# What is the average price for a four-bedroom house sold for each year?
+ What is the average price for a four-bedroom house sold for each year?
 
 We can observe that the average price for four-bedroom houses sold fluctuates slightly from year to year. In 2019, the average price was $300,263.70, which decreased slightly to $298,353.78 in 2020. However, the trend reversed in 2021, with the average price rising to $301,819.44. Finally, in 2022, the average price decreased again to $296,363.
 
-# What is the average price of a home for each year it was built that has three bedrooms and three bathrooms?
+ What is the average price of a home for each year it was built that has three bedrooms and three bathrooms?
 
 We can observe that the average price of homes with 3 bedrooms and 3 bathrooms does not show a consistent increasing or decreasing trend based solely on the year the home was built. The average prices fluctuate without a clear pattern or linear progression from year to year.
 
-# What is the average price of a home for each year that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet?
+ What is the average price of a home for each year that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet?
 
 We can observe that the average price of homes with 3 bedrooms and 3 bathrooms does not show a consistent increasing or decreasing trend based solely on the year the home was built. The average prices fluctuate without a clear pattern or linear progression from year to year.
 
-# What is the "view" rating for homes costing more than or equal to $350,000?
+ What is the "view" rating for homes costing more than or equal to $350,000?
 
 ## Conclusion
 
